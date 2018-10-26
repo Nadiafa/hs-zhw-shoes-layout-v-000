@@ -24,6 +24,6 @@
 
 /* Positioning Classes */
 
-#social { 
-  position: fixed;
+#social {
+  display: block;
 }
