@@ -24,6 +24,6 @@
 
 /* Positioning Classes */
 
-/*#social a {
-  display: block;
-}*/
+#social a {
+  display: inline;
+}
