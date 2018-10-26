@@ -24,6 +24,10 @@
 
 /* Positioning Classes */
 
-#social a {
-  display: block;;
+#social {
+  position: fixed;
+  top: 200px;
+  right: 3px;
+  z-index: 1;
+  display: block;
 }
