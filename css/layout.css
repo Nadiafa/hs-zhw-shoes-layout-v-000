@@ -23,3 +23,7 @@
 }
 
 /* Positioning Classes */
+
+#social { 
+  position: fixed;
+}
